@@ -1,0 +1,7 @@
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Form1.resources
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Properties.Resources.resources
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.csproj.GenerateResource.Cache
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb

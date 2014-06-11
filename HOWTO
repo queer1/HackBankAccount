@@ -1,0 +1,17 @@
+Initially we need to understand how they do this, it is very easy:
+
+1- Hook the keyboard 
+2- Hook the mouse
+3- Capture a Screen
+4- Sniffing Network
+5- Image analysis
+6- Network analysis
+
+Before for understand this, let's do it!
+
+MouseKeyboardHooking: this contains the project to demostrate this.
+
+ScreenCapture: this contains the project to demostrate this.
+
+Final: this contains the project final.
+

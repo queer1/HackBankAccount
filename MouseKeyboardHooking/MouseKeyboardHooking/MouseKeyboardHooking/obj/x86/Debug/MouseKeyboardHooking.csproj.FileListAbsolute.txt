@@ -1,0 +1,7 @@
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\bin\Debug\MouseKeyboardHooking.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\bin\Debug\MouseKeyboardHooking.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\obj\x86\Debug\MouseKeyboardHooking.Properties.Resources.resources
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\obj\x86\Debug\MouseKeyboardHooking.csproj.GenerateResource.Cache
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\obj\x86\Debug\MouseKeyboardHooking.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\obj\x86\Debug\MouseKeyboardHooking.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\MouseKeyboardHooking\MouseKeyboardHooking\MouseKeyboardHooking\obj\x86\Debug\MouseKeyboardHooking.Form1.resources
