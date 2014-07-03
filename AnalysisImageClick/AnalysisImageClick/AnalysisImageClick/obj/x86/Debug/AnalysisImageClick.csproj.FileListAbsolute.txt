@@ -1,0 +1,8 @@
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\bin\Debug\AnalysisImageClick.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\bin\Debug\AnalysisImageClick.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\obj\x86\Debug\AnalysisImageClick.Form1.resources
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\obj\x86\Debug\AnalysisImageClick.Properties.Resources.resources
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\obj\x86\Debug\AnalysisImageClick.csproj.GenerateResource.Cache
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\obj\x86\Debug\AnalysisImageClick.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\obj\x86\Debug\AnalysisImageClick.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\AnalysisImageClick\AnalysisImageClick\AnalysisImageClick\obj\x86\Debug\AnalysisImageClick.csprojResolveAssemblyReference.cache

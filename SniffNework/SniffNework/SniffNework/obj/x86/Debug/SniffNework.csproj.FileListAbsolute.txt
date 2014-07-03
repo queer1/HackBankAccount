@@ -1,0 +1,7 @@
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\bin\Debug\SniffNework.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\bin\Debug\SniffNework.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\obj\x86\Debug\SniffNework.Properties.Resources.resources
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\obj\x86\Debug\SniffNework.csproj.GenerateResource.Cache
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\obj\x86\Debug\SniffNework.exe
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\obj\x86\Debug\SniffNework.pdb
+C:\Users\JhetoX\Documents\GitHub\HackBankAccout\SniffNework\SniffNework\SniffNework\bin\Debug\SniffNework.exe.config
